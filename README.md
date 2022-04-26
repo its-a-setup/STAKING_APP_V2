@@ -1,5 +1,5 @@
 # STAKING_APP_V2
-Decentralized staking app for fundraising in limited amount of time.
+💸 Decentralized staking app for fundraising in limited amount of time.
 
 
 # Dependencies
